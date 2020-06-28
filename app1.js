@@ -5,7 +5,7 @@
     "author": "Jonathan James",
     scripts: {
         "start": "node app1.js"
-    }
+    },
     "dependencies": {
         "cookie-parser": "1.4.*",
         "http-errors": ">=1.6.3",
